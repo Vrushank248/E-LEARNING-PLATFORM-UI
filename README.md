@@ -1,1 +1,19 @@
 # E-LEARNING-PLATFORM-UI
+
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: VRUSHANK MUKESH VYAS
+
+**INTERN ID**: CT08FRE
+
+**DOMAIN**: FRONTEND WEB DEVELOPMENT
+
+**DURATION**: 4 WEEKS
+
+**MENTOR**: NEELA SANTOSH
+
+**DESCRIPTION**: 
+
+**OUTPUT**:
+
+![Image](https://github.com/user-attachments/assets/0c9f32f2-ff06-46a2-a5ec-484e1bebd7fd)
